@@ -1,5 +1,7 @@
 # Block Notebook
 
+![Logo de block notebook](images\Codifica_lo_que_escribes.png)
+
 ## Preámbulo
 
 React, Angular y Vue son algunos de los frameworks y librerías de JavaScript más utilizados por lxs desarrolladorxs alrededor del mundo, y hay una razón para eso. En el contexto del navegador, mantener la interfaz sincronizada con el estado es difícil. Al elegir un framework o librería para nuestra interfaz, nos apoyamos en una serie de convenciones e implementaciones probadas y documentadas para resolver un problema común a toda interfaz web. Esto nos permite concentrarnos mejor (dedicar más tiempo) en las caractrísticas específicas de nuestra aplicación.
