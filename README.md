@@ -87,23 +87,26 @@ Se hará en 3 semanas.
 
 ## Avances esperados
 
-Historias de usuario
+### Historias de usuario
+
 Una vez que entiendas las necesidades de tus usuarios, escribe las Historias de Usuario que representen todo lo que el usuario necesita hacer/ver. Las Historias de Usuario deben ser el resultado de tu proceso de entendimiento de tus usuarios.
 
 Asegúrate de incluir la definición de terminado (definition of done) y los Criterios de Aceptación para cada una.
 
 En la medida de lo posible, termina de construir una historia de usuario antes de pasar a la siguiente (Cumple con Definición de Terminado + Criterios de Aceptación).
 
-Diseño de la Interfaz de Usuario
-Prototipo de baja fidelidad
+### Diseño de la Interfaz de Usuario
+
+* Prototipo de baja fidelidad
 Durante tu trabajo deberás haber hecho e iterado bocetos (sketches) de tu solución usando papel y lápiz. Te recomendamos tomar fotos de todas las iteraciones que hagas, que las subas a tu repositorio y las menciones en tu README.md.
 
-Prototipo de alta fidelidad
+* Prototipo de alta fidelidad
 Lo siguiente es diseñar tu Interfaz de Usuario (UI por sus siglas en inglés - User Interface). Para eso debes aprender a utilizar alguna herramienta de diseño visual. Nosotros te recomendamos Figma que es una herramienta que funciona en el navegador y, además, puedes crear una cuenta gratis. Sin embargo, eres libre de utilizar otros editores gráficos como Illustrator, Photoshop, PowerPoint, Keynote, etc. Recuerda utilizar la identidad gráfica correspondiente a cada set de datos que elijas.
 
 El diseño debe representar el ideal de tu solución. Digamos que es lo que desearías implementar si tuvieras tiempo ilimitado para trabajar. Además, tu diseño debe seguir los fundamentos de visual design.
 
-Testeos de usabilidad
+### Testeos de usabilidad
+
 Durante el reto deberás hacer tests de usabilidad con distintos usuarios, y en base a los resultados, deberás iterar tus diseños. Cuéntanos qué problemas de usabilidad detectaste a través de los tests y cómo los mejoraste en tu propuesta final.
 
 ## Hacker Edition
