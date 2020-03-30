@@ -2,7 +2,7 @@
 
 ## Preámbulo
 
- Puedes usarla tanto como bloc de notas, hacer listas o como un diario. 
+ Puedes usarla tanto como bloc de notas, hacer listas o como un diario.  
 Resuelve la necesidad de tener un espacio personal en el cual, se pueda ocultar o mostrar si el usuario así lo desea.
 
 ## Introducción
@@ -12,38 +12,31 @@ Puedes compartir con otro usuario de la aplicación la nota que tú desees.
 
 ## Objetivos de aprendizaje
 
-* [] React
-* [] Qué es React
-* [] ReactDOM rendering
-* [] Que es un React component
-* [] JSX
-* []State and setState
-* [] Manejo de eventos
-* [] Props
-* [] Refs
-* [] Lifecycle Methods
-* [] React-router
-* [] Route Config
-* [] Links
-* [] URL Parametros
-* [] Navegación programatica
-* [] Rutas protegidas
-* [] Redirect
+* [ ] React
+* [ ] Qué es React
+* [ ] ReactDOM rendering
+* [ ] Que es un React component
+* [ ] JSX
+* [ ]State and setState
+* [ ] Manejo de eventos
+* [ ] Props
+* [ ] Refs
+* [ ] Lifecycle Methods
+* [ ] React-router
+* [ ] Route Config
+* [ ] Links
+* [ ] URL Parametros
+* [ ] Navegación programatica
+* [ ] Rutas protegidas
+* [ ] Redirect
 
 ### Objetivos de aprendizajes pendientes
 
 ### HTML y CSS
 
-* [ ] [HTML semántico](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
-* [ ] [CSS `flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
-* [ ] [CSS `grid layout`](https://css-tricks.com/snippets/css/complete-guide-grid/) 
+* [ ] [CSS `flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+* [ ] [CSS `grid layout`](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 * [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
-
-### DOM y Web APIs
-
-* [ ] [Manipulación dinámica del DOM](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
-
-* [ ] [History API](https://developer.mozilla.org/es/docs/DOM/Manipulando_el_historial_del_navegador)
 
 ### Javascript
 
@@ -73,30 +66,12 @@ Puedes compartir con otro usuario de la aplicación la nota que tú desees.
 
 * [ ] Modularización
 * [ ] Nomenclatura / Semántica
-* [ ] Linting
 
 ***
 
 ## Consideraciones Generales
 
 Se debe utilizar React.js, react-router y Promises.
-Debe de:
-Cerrar sesión
-Crear una nueva nota
-Ver mis notas
-Editar mis notas
-Borrar mis notas
-Compartir nota
-Ocultar nota
-
-## Archivos del proyecto
-
-El proyecto deberá de contener los siguientes archivos base de configuración, aunque no seran los únicos archivos que quizás tendras que crear.
-
-README.md es dónde se encontrará la descripción del proyecto y cosas relevantes de tu proyecto.
-.editorconfig este archivo contiene la configuración para editores de texto.
-.gitignore este archivo contiene reglas para ignorar node_modules u otras carpetas que no deban incluirse en control de versiones (git).
-.prettierrc este archivo contiene reglas para formatear el código, el cual aplica estilos consistentes apartir de tus reglas.
 
 ## Avances esperados
 
@@ -107,8 +82,12 @@ Uso de firestore para CRUD.
 
 ## Hacker Edition
 
-* [ ] Imágenes y música
-* [ ] Vídeos
-* [ ] Personalización de la aplicación
-* [ ] Calendario
-* [ ] Buscador
+* [ ] Poder subir y visuavilizar imágen, música y vídeo
+* [ ] Poder dibujar en la app parecido a paint
+* [ ] Personalización de la aplicación por el usuario (fondo, ícono, color)
+* [ ] Calendario para ver las notas, el diario por la fecha.
+* [ ] Buscador por nombre, etiqueta o tipo.
+
+![maquetado](images/maquetado.jpeg)
+![maquetado](images/maquetado3.jpeg)
+![maquetado](images/maquetado2.jpeg)
