@@ -83,7 +83,7 @@ Uso de firestore para CRUD.
 ## Hacker Edition
 
 * [ ] Poder subir y visuavilizar imágen, música y vídeo
-* [ ] Poder dibujar en la app parecido a paint
+* [ ] Poder dibujar en la app parecido a paint.
 * [ ] Personalización de la aplicación por el usuario (fondo, ícono, color)
 * [ ] Calendario para ver las notas, el diario por la fecha.
 * [ ] Buscador por nombre, etiqueta o tipo.
