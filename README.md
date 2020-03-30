@@ -1,7 +1,5 @@
 # Block Notebook
 
-![Logo de block notebook](images\Codifica_lo_que_escribes.png)
-
 ## Preámbulo
 
 React, Angular y Vue son algunos de los frameworks y librerías de JavaScript más utilizados por lxs desarrolladorxs alrededor del mundo, y hay una razón para eso. En el contexto del navegador, mantener la interfaz sincronizada con el estado es difícil. Al elegir un framework o librería para nuestra interfaz, nos apoyamos en una serie de convenciones e implementaciones probadas y documentadas para resolver un problema común a toda interfaz web. Esto nos permite concentrarnos mejor (dedicar más tiempo) en las caractrísticas específicas de nuestra aplicación.
@@ -11,6 +9,8 @@ Cuando elegimos una de estas tecnologías no solo importamos un pedacito de cód
 Como desarrolladora Front-end, estos kits de desarrollo pueden resultarte de gran ayuda para implementar rápidamente características de los proyectos en los que trabajes.
 
 ## Introducción
+
+![Logo de block notebook](images\Codifica_lo_que_escribes.png)
 
 Siempre estamos escribiendo, ya sea para recordar algo que nos paso en el día, escribir algo que luego queremos busacar, para desahogarnos, étcetera; y hay algunas veces en las que deseamos compartir lo que escribimos pero perdemos o olvidamos dónde lo pusimos o no las tenemos al alcance de nuestras manos cuando lo necesitamos.
 
