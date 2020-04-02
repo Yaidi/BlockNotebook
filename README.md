@@ -44,9 +44,9 @@ Los objetivos seran aprender...
 
 ### CSS
 
-* [ ] [CSS `flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-* [ ] [CSS `grid layout`](https://css-tricks.com/snippets/css/complete-guide-grid/)  
-* [ ] [Construir tu aplicación respetando el diseño realizado](maquetación).
+- [ ] [CSS `flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+- [ ] [CSS `grid layout`](https://css-tricks.com/snippets/css/complete-guide-grid/)  
+- [ ] [Construir tu aplicación respetando el diseño realizado](maquetación).
 
 ### Javascript
 
