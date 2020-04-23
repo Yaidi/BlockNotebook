@@ -1,11 +1,13 @@
 import React from 'react';
 
-function menu() {
+function Menu() {
     return(
 <div>
-<a className="help"  href="https://reactjs.org"  target="_blank"  rel="noopener noreferrer">  Ayuda</a>
-<a className="help"  href="https://reactjs.org"  target="_blank"  rel="noopener noreferrer">  Cerrar sesión</a>
+<a className="help" >  Ayuda</a>
+<a className="logOut" >  Cerrar sesión</a>
+<a> </a>
 </div>
     )
     
 }
+export default Menu
