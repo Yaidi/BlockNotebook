@@ -1,20 +1,20 @@
 import React, { useState } from 'react'
 import {Link, useHistory} from 'react-router-dom';
 import firebase from 'firebase';
-import Logs from './logs.js';
+import Auths from './Auths.js';
 
-const register = (name, email, password) => {
+function register (name, email, password) {
     return firebase.auth().createUserWithEmailAndPassword(email, password)
 }
 
-function Register() {
+const Register=()=> {
     let history = useHistory()
     const [name, setName] = useState('')
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
     const [error, setError] = useState('')
     
-const sendData = (e) => {
+function sendData (e) {
     e.preventDefault();
     register(name, email, password)
         .then( () =>{
@@ -30,6 +30,7 @@ const sendData = (e) => {
 }
     return (
     <div id= 'Register'>
+    <Link to ='/Principal'>Principal</Link>
     <h1> Registro </h1>
     <form onSubmit={sendData}>
     {error && <div>{error}</div>}
@@ -43,7 +44,7 @@ setPassword(e.target.value)}}/>
         
         <button>Entrar</button>
     </form>
-    <Logs/>
+    <Auths/>
     <p>¿Ya tienes una cuenta?
     <Link to="/sigIn" >inicia sesión</Link></p>
     

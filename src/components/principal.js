@@ -1,14 +1,11 @@
 import React from 'react';
 import firebase from 'firebase';
+import { useHistory } from 'react-router-dom';
+
+function logOut(){
+ return firebase.auth().signOut()}
 const Principal = () =>{
-    function logOut (){
-        firebase.auth().signOut().then(function() {
-            // Sign-out successful.
-        
-          }).catch(function(error) {
-              return( <p>{error}</p>)
-          });
-    }
+    let history = useHistory()
         return(
         <div>
             <footer>
@@ -16,7 +13,7 @@ const Principal = () =>{
                     <button>Diario</button>
                 </section>
             </footer>
-            <button onClick= {logOut}>Cerrar sesion</button>
+            <button> Cerrar sesion</button>
         </div>
     )
 }

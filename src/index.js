@@ -3,8 +3,10 @@ import ReactDOM from 'react-dom';
 import './styles/index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+import initFirebase from './firebase';
 import {BrowserRouter} from 'react-router-dom'
+
+initFirebase()
 ReactDOM.render(
   <BrowserRouter>
   <React.StrictMode>
