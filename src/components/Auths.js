@@ -7,7 +7,7 @@ import firebase from 'firebase';
 function authSocialMedia (provider){
     const providers = {
  google: new firebase.auth.GoogleAuthProvider(),
- facebook:'b',
+ facebook:new firebase.auth.FacebookAuthProvider(),
  git: 'a',
     }
     return firebase.auth().signInWithPopup(providers[provider])

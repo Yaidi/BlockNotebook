@@ -12,6 +12,12 @@ const Principal = () =>{
                 <section>
                     <button>Diario</button>
                 </section>
+                <section>
+                <button>Notas</button>
+                </section>
+                <section>
+                    <button>Listas</button>
+                </section>
             </footer>
             <button> Cerrar sesion</button>
         </div>
